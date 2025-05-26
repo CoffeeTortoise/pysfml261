@@ -1,0 +1,1 @@
+Cython @ file:///C:/Users/CoffeeTortoise/Desktop/MyFiles/CompFiles/Python311/Packs/cython-3.1.0-cp311-cp311-win_amd64.whl#sha256=dde3726aa5acbe879f849a09606b886491f950cfa993b435e50e9561fdf731c6
